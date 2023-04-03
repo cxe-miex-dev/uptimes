@@ -22,7 +22,7 @@ status-website:
     - title: Status
       href: /
     - title: Website
-      href: https://therealzzy.xyz
+      href: https://dev-free.miexcloud.studio/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
