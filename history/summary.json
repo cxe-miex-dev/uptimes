@@ -1,20 +1,20 @@
 [
   {
-    "name": "Main Web",
-    "url": "https://scoodev.my.id",
-    "icon": "https://icons.duckduckgo.com/ip3/scoodev.my.id.ico",
-    "slug": "main-web",
+    "name": "Panel",
+    "url": "https://dev-free.miexcloud.studio/",
+    "icon": "https://icons.duckduckgo.com/ip3/dev-free.miexcloud.studio.ico",
+    "slug": "panel",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 220,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   }
 ]
