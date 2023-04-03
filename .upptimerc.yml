@@ -5,11 +5,11 @@ repo: uptimes # The name of this repository
 sites:
   - name: Free-Panel
     url: https://dev-free.miexcloud.studio/
-  - name: Free-node.sg.1
+  - name: Node 1
     check: "tcp-ping"
     url: node1.miexcloud.studio
     port: 3306
-  - name: Free-node.sg.2
+  - name: Node 2
     check: "tcp-ping"
     url: node2.miexcloud.studio
     port: 3306
