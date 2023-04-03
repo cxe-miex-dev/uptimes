@@ -7,7 +7,7 @@ sites:
     url: https://scoodev.my.id
 
 status-website:
-  cname: uptime.scoodev.my.id
+  baseUrl: /uptimes
   logoUrl: https://therealzzy.xyz/icon.png
   favicon: https://therealzzy.xyz/icon.png
   name: Realzzy Status
