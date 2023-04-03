@@ -7,20 +7,24 @@ sites:
     url: https://scoodev.my.id
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
-  theme: ocean
-  baseUrl: /uptimes
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: uptime.scoodev.my.id
+  logoUrl: https://therealzzy.xyz/icon.png
+  favicon: https://therealzzy.xyz/icon.png
+  name: Realzzy Status
+  introTitle: "**Realzzy Uptime Status** for monitoring."
+  introMessage: "You can see all my websites, api, etc. (idk) if they're online or not."
+  theme: night
+  css: 'nav{animation:1s ease-in-out fadeInDown}main{animation:1s ease-in-out fadeIn}'
+  links:
+    - rel: stylesheet
+      href: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://therealzzy.xyz
     - title: GitHub
-      href: https://github.com/cxe-miex-dev/uptimes
+      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
