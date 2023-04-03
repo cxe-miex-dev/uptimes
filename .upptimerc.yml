@@ -3,14 +3,14 @@ owner: cxe-miex-dev # Your GitHub organization or username, where this repositor
 repo: uptimes # The name of this repository
 
 sites:
-  - name: Main Web
-    url: https://scoodev.my.id
+  - name: Panel
+    url: https://dev-free.miexcloud.studio/
 
 status-website:
   cname: uptime.scoodev.my.id
   logoUrl: https://therealzzy.xyz/icon.png
   favicon: https://therealzzy.xyz/icon.png
-  name: Realzzy Status
+  name: Cxe x Miex
   introTitle: "**Realzzy Uptime Status** for monitoring."
   introMessage: "You can see all my websites, api, etc. (idk) if they're online or not."
   theme: night
