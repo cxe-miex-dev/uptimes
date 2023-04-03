@@ -11,7 +11,7 @@ status-website:
   logoUrl: https://therealzzy.xyz/icon.png
   favicon: https://therealzzy.xyz/icon.png
   name: Cxe x Miex
-  introTitle: "**Realzzy Uptime Status** for monitoring."
+  introTitle: "**Cxe x Miex Uptime Status** for monitoring."
   introMessage: "You can see all my websites, api, etc. (idk) if they're online or not."
   theme: night
   css: 'nav{animation:1s ease-in-out fadeInDown}main{animation:1s ease-in-out fadeIn}'
