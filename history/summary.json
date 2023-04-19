@@ -4,19 +4,19 @@
     "url": "https://dev-free.miexcloud.studio/",
     "icon": "https://icons.duckduckgo.com/ip3/dev-free.miexcloud.studio.ico",
     "slug": "free-panel",
-    "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "92.25%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
-    "time": 741,
-    "timeDay": 428,
-    "timeWeek": 615,
-    "timeMonth": 741,
-    "timeYear": 741,
+    "status": "up",
+    "uptime": "99.06%",
+    "uptimeDay": "84.78%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
+    "time": 745,
+    "timeDay": 509,
+    "timeWeek": 635,
+    "timeMonth": 745,
+    "timeYear": 745,
     "dailyMinutesDown": {
-      "2023-04-19": 111
+      "2023-04-19": 219
     }
   },
   {
