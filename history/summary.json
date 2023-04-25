@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-free.miexcloud.studio.ico",
     "slug": "free-panel",
     "status": "down",
-    "uptime": "94.42%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "82.69%",
-    "uptimeMonth": "94.42%",
-    "uptimeYear": "94.42%",
+    "uptime": "94.34%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "82.42%",
+    "uptimeMonth": "94.34%",
+    "uptimeYear": "94.34%",
     "time": 650,
     "timeDay": 866,
     "timeWeek": 538,
     "timeMonth": 650,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2023-04-25": 0,
+      "2023-04-25": 27,
       "2023-04-23": 55,
       "2023-04-21": 120,
       "2023-04-20": 1032,
@@ -28,10 +28,10 @@
     "url": "node1.miexcloud.studio",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "free-node-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 279,
@@ -39,16 +39,18 @@
     "timeWeek": 309,
     "timeMonth": 279,
     "timeYear": 279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-25": 1
+    }
   },
   {
     "name": "Free Node 2",
     "url": "node2.miexcloud.studio",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "free-node-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,6 +59,8 @@
     "timeWeek": 267,
     "timeMonth": 269,
     "timeYear": 269,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-25": 0
+    }
   }
 ]
