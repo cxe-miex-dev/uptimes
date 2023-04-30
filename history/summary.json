@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 799,
-    "timeDay": 799,
-    "timeWeek": 799,
-    "timeMonth": 799,
-    "timeYear": 799,
+    "time": 789,
+    "timeDay": 789,
+    "timeWeek": 789,
+    "timeMonth": 789,
+    "timeYear": 789,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paid-node-sg-1",
     "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "78.49%",
+    "uptimeDay": "78.49%",
+    "uptimeWeek": "78.49%",
+    "uptimeMonth": "78.49%",
+    "uptimeYear": "78.49%",
     "time": 315,
     "timeDay": 315,
     "timeWeek": 315,
     "timeMonth": 315,
     "timeYear": 315,
+    "dailyMinutesDown": {
+      "2023-04-30": 8
+    }
+  },
+  {
+    "name": "Paid - Node SG 2",
+    "url": "cxenode-2.hexagonn.my.id",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "paid-node-sg-2",
+    "status": "down",
+    "uptime": "95.01%",
+    "uptimeDay": "95.01%",
+    "uptimeWeek": "95.01%",
+    "uptimeMonth": "95.01%",
+    "uptimeYear": "95.01%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {
       "2023-04-30": 0
     }
