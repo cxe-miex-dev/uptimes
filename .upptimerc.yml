@@ -1,25 +1,23 @@
-# Change these first
-owner: cxe-miex-dev # Your GitHub organization or username, where this repository lives
-repo: uptimes # The name of this repository
+owner: cxe-miex-dev
+repo: uptimes
 
 sites:
-  - name: "Free Panel"
-    url: https://dev-free.miexcloud.studio/
-  - name: "Free Node 1"
+  - name: "Paid - Panel"
+    url: https://paidcxe.zxxhost.my.id/
+  - name: "Paid - Node SG 1"
     check: "tcp-ping"
-    url: node1.miexcloud.studio
-    port: 3306
-  - name: "Free Node 2"
-    check: "tcp-ping"
-    url: node2.miexcloud.studio
+    url: cxenode-1.hexagonn.my.id
     port: 3306
 
+notifications:
+  - type: discord
+
 status-website:
-  cname: uptime.scoodev.my.id
-  logoUrl: https://raw.scoodev.my.id/miexcloud/logo.png
-  favicon: https://raw.scoodev.my.id/miexcloud/logo.png
-  name: Cxe x Miex
-  introTitle: "**Cxe x Miex Uptime Status** for monitoring."
+  cname: cxestatus.hexagonn.my.id
+  logoUrl: https://cdn.discordapp.com/icons/1080420246567010304/71e27a6acae93fdb05112948eab30711.png?size=1024
+  favicon: https://cdn.discordapp.com/icons/1080420246567010304/71e27a6acae93fdb05112948eab30711.png?size=1024
+  name: CXE
+  introTitle: "**CXE** for monitoring."
   introMessage: "Welcome to MiexCloud & CXE Status!"
   theme: night
   css: 'nav{animation:1s ease-in-out fadeInDown}main{animation:1s ease-in-out fadeIn}'
@@ -27,9 +25,8 @@ status-website:
     - rel: stylesheet
       href: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
   navbar:
-    - title: Status
-      href: /
-    - title: Website
-      href: https://dev-free.miexcloud.studio/
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Paid - Panel
+      href: https://paidcxe.zxxhost.my.id/
+
+i18n:
+  footer: "Made with 💖 by [Hexagonn](https://www.hexagonn.my.id/)"
