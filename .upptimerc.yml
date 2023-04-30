@@ -7,7 +7,7 @@ sites:
   - name: "Paid - Node SG 1"
     check: "tcp-ping"
     url: cxenode-1.hexagonn.my.id
-    port: 3306
+    port: 8080
 
 notifications:
   - type: discord
