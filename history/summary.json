@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paid-node-sg-1",
     "status": "up",
-    "uptime": "62.40%",
-    "uptimeDay": "62.40%",
-    "uptimeWeek": "62.40%",
-    "uptimeMonth": "62.40%",
-    "uptimeYear": "62.40%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 315,
     "timeDay": 315,
     "timeWeek": 315,
     "timeMonth": 315,
     "timeYear": 315,
-    "dailyMinutesDown": {
-      "2023-04-30": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
