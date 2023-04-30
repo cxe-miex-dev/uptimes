@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 804,
-    "timeDay": 804,
-    "timeWeek": 804,
-    "timeMonth": 804,
-    "timeYear": 804,
+    "time": 799,
+    "timeDay": 799,
+    "timeWeek": 799,
+    "timeMonth": 799,
+    "timeYear": 799,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "cxenode-1.hexagonn.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paid-node-sg-1",
-    "status": "down",
-    "uptime": "92.75%",
-    "uptimeDay": "92.75%",
-    "uptimeWeek": "92.75%",
-    "uptimeMonth": "92.75%",
-    "uptimeYear": "92.75%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "62.40%",
+    "uptimeDay": "62.40%",
+    "uptimeWeek": "62.40%",
+    "uptimeMonth": "62.40%",
+    "uptimeYear": "62.40%",
+    "time": 315,
+    "timeDay": 315,
+    "timeWeek": 315,
+    "timeMonth": 315,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2023-04-30": 0
+      "2023-04-30": 1
     }
   }
 ]
