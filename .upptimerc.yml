@@ -6,11 +6,11 @@ sites:
     url: https://paidcxe.zxxhost.my.id/
   - name: "Paid - Node SG 1"
     check: "tcp-ping"
-    url: cxenode-1.hexagonn.my.id
+    url: sg1.hexagonn.my.id
     port: 8080
   - name: "Paid - Node SG 2"
     check: "tcp-ping"
-    url: cxenode-2.hexagonn.my.id
+    url: sg2.hexagonn.my.id
     port: 8080
 
 notifications:
