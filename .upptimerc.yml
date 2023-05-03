@@ -3,7 +3,7 @@ repo: uptimes
 
 sites:
   - name: "Paid - Panel"
-    url: https://paidcxe.hexagonn.my.id/
+    url: https://panelcxe.hexagonn.my.id/
   - name: "Paid - Node SG 1"
     check: "tcp-ping"
     url: sgp1.hexagonn.my.id
