@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/panelcxe.hexagonn.my.id.ico",
     "slug": "paid-panel",
     "status": "down",
-    "uptime": "8.07%",
+    "uptime": "8.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "8.07%",
+    "uptimeYear": "8.05%",
     "time": 738,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2024-04-28": 52,
+      "2024-04-29": 49,
+      "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
@@ -362,18 +363,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paid-node-sg-1",
     "status": "down",
-    "uptime": "9.44%",
+    "uptime": "9.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.44%",
+    "uptimeYear": "9.41%",
     "time": 274,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2024-04-28": 52,
+      "2024-04-29": 49,
+      "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
@@ -705,8 +707,7 @@
       "2023-05-31": 1440,
       "2023-05-30": 657,
       "2023-05-02": 25,
-      "2023-05-01": 596,
-      "2023-04-30": 73
+      "2023-05-01": 596
     }
   },
   {
@@ -715,18 +716,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paid-node-sg-2",
     "status": "down",
-    "uptime": "8.30%",
+    "uptime": "8.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "8.30%",
+    "uptimeYear": "8.27%",
     "time": 252,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2024-04-28": 52,
+      "2024-04-29": 49,
+      "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
@@ -1062,8 +1064,7 @@
       "2023-05-31": 1440,
       "2023-05-30": 634,
       "2023-05-02": 29,
-      "2023-05-01": 181,
-      "2023-04-30": 40
+      "2023-05-01": 181
     }
   }
 ]
