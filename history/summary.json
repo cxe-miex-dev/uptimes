@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/panelcxe.hexagonn.my.id.ico",
     "slug": "paid-panel",
     "status": "down",
-    "uptime": "8.03%",
+    "uptime": "8.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "7.81%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "7.54%",
     "time": 738,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 738,
+    "timeYear": 735,
     "dailyMinutesDown": {
-      "2024-04-30": 48,
+      "2024-05-01": 52,
+      "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -353,8 +354,7 @@
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 659,
-      "2023-05-03": 568,
-      "2023-05-02": 620
+      "2023-05-03": 568
     }
   },
   {
@@ -363,18 +363,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paid-node-sg-1",
     "status": "down",
-    "uptime": "9.39%",
+    "uptime": "9.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "9.18%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "8.91%",
     "time": 274,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 274,
+    "timeYear": 275,
     "dailyMinutesDown": {
-      "2024-04-30": 48,
+      "2024-05-01": 52,
+      "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -706,8 +707,7 @@
       "2023-06-02": 1440,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
-      "2023-05-30": 657,
-      "2023-05-02": 25
+      "2023-05-30": 657
     }
   },
   {
@@ -716,18 +716,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paid-node-sg-2",
     "status": "down",
-    "uptime": "8.25%",
+    "uptime": "8.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "8.04%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "7.77%",
     "time": 252,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 252,
+    "timeYear": 254,
     "dailyMinutesDown": {
-      "2024-04-30": 48,
+      "2024-05-01": 52,
+      "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
@@ -1063,8 +1064,7 @@
       "2023-06-02": 1440,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
-      "2023-05-30": 634,
-      "2023-05-02": 29
+      "2023-05-30": 634
     }
   }
 ]
